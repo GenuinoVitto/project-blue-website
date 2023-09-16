@@ -25,5 +25,8 @@
     "vue-wow": "^1.2.0",
     "vuejs-countdown": "^0.2.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines":{
+    "node": "16.9"
+  }
 }
