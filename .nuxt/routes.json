@@ -3,90 +3,105 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_3e8086cf"
   },
   {
     "name": "become-volunteer",
     "path": "/become-volunteer",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\become-volunteer.vue",
-    "chunkName": "pages/become-volunteer"
+    "chunkName": "pages/become-volunteer",
+    "_name": "_3c30f39c"
   },
   {
     "name": "causes",
     "path": "/causes",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\causes.vue",
-    "chunkName": "pages/causes"
+    "chunkName": "pages/causes",
+    "_name": "_55276650"
   },
   {
     "name": "causes-details",
     "path": "/causes-details",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\causes-details.vue",
-    "chunkName": "pages/causes-details"
+    "chunkName": "pages/causes-details",
+    "_name": "_658bc066"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_ba12393c"
   },
   {
     "name": "events",
     "path": "/events",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\events.vue",
-    "chunkName": "pages/events"
+    "chunkName": "pages/events",
+    "_name": "_7aa30547"
   },
   {
     "name": "events-details",
     "path": "/events-details",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\events-details.vue",
-    "chunkName": "pages/events-details"
+    "chunkName": "pages/events-details",
+    "_name": "_55e4f93c"
   },
   {
     "name": "founder",
     "path": "/founder",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\founder.vue",
-    "chunkName": "pages/founder"
+    "chunkName": "pages/founder",
+    "_name": "_bb85a91e"
   },
   {
     "name": "gallery",
     "path": "/gallery",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\gallery.vue",
-    "chunkName": "pages/gallery"
+    "chunkName": "pages/gallery",
+    "_name": "_206b4d94"
   },
   {
     "name": "index-2",
     "path": "/index-2",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\index-2.vue",
-    "chunkName": "pages/index-2"
+    "chunkName": "pages/index-2",
+    "_name": "_a7d9848e"
   },
   {
     "name": "index-3",
     "path": "/index-3",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\index-3.vue",
-    "chunkName": "pages/index-3"
+    "chunkName": "pages/index-3",
+    "_name": "_a7bd558c"
   },
   {
     "name": "news",
     "path": "/news",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\news.vue",
-    "chunkName": "pages/news"
+    "chunkName": "pages/news",
+    "_name": "_37e460fe"
   },
   {
     "name": "news-details",
     "path": "/news-details",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\news-details.vue",
-    "chunkName": "pages/news-details"
+    "chunkName": "pages/news-details",
+    "_name": "_4c66e976"
   },
   {
     "name": "volunteers",
     "path": "/volunteers",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\volunteers.vue",
-    "chunkName": "pages/volunteers"
+    "chunkName": "pages/volunteers",
+    "_name": "_22229757"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_5e386194"
   }
 ]
