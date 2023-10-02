@@ -3,105 +3,90 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_3e8086cf"
+    "chunkName": "pages/about"
   },
   {
     "name": "become-volunteer",
     "path": "/become-volunteer",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\become-volunteer.vue",
-    "chunkName": "pages/become-volunteer",
-    "_name": "_3c30f39c"
+    "chunkName": "pages/become-volunteer"
   },
   {
     "name": "causes",
     "path": "/causes",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\causes.vue",
-    "chunkName": "pages/causes",
-    "_name": "_55276650"
+    "chunkName": "pages/causes"
   },
   {
     "name": "causes-details",
     "path": "/causes-details",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\causes-details.vue",
-    "chunkName": "pages/causes-details",
-    "_name": "_658bc066"
+    "chunkName": "pages/causes-details"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_ba12393c"
+    "chunkName": "pages/contact"
   },
   {
     "name": "events",
     "path": "/events",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\events.vue",
-    "chunkName": "pages/events",
-    "_name": "_7aa30547"
+    "chunkName": "pages/events"
   },
   {
     "name": "events-details",
     "path": "/events-details",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\events-details.vue",
-    "chunkName": "pages/events-details",
-    "_name": "_55e4f93c"
+    "chunkName": "pages/events-details"
   },
   {
     "name": "founder",
     "path": "/founder",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\founder.vue",
-    "chunkName": "pages/founder",
-    "_name": "_bb85a91e"
+    "chunkName": "pages/founder"
   },
   {
     "name": "gallery",
     "path": "/gallery",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\gallery.vue",
-    "chunkName": "pages/gallery",
-    "_name": "_206b4d94"
+    "chunkName": "pages/gallery"
   },
   {
     "name": "index-2",
     "path": "/index-2",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\index-2.vue",
-    "chunkName": "pages/index-2",
-    "_name": "_a7d9848e"
+    "chunkName": "pages/index-2"
   },
   {
     "name": "index-3",
     "path": "/index-3",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\index-3.vue",
-    "chunkName": "pages/index-3",
-    "_name": "_a7bd558c"
+    "chunkName": "pages/index-3"
   },
   {
     "name": "news",
     "path": "/news",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\news.vue",
-    "chunkName": "pages/news",
-    "_name": "_37e460fe"
+    "chunkName": "pages/news"
   },
   {
     "name": "news-details",
     "path": "/news-details",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\news-details.vue",
-    "chunkName": "pages/news-details",
-    "_name": "_4c66e976"
+    "chunkName": "pages/news-details"
   },
   {
     "name": "volunteers",
     "path": "/volunteers",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\volunteers.vue",
-    "chunkName": "pages/volunteers",
-    "_name": "_22229757"
+    "chunkName": "pages/volunteers"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Vitto Genuino\\\\Documents\\\\project-blue-website\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_5e386194"
+    "chunkName": "pages/index"
   }
 ]
